@@ -1,5 +1,4 @@
----
-<!-- Intro -->
+
 <h3 align="center">
   <samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey There!, I am
     <b> Anupama Sharma </b>
@@ -17,10 +16,10 @@
 
 - 🔭 I’m currently working on **Spring Boot + MySQL** full stack projects  
 - 🌱 Learning **React.js**, **Docker**, and exploring **Cloud & DevOps (AWS)**  
-- 👯 I’m open to collaborate on **real-world or academic Java-based projects**  
-- 💡 Passionate about **writing clean code** and building **impactful digital solutions**  
+- 👯 I’m open to collaborate on **real-world or Java-based projects**  
+- 💡 Passionate about **writing clean, efficient code** and solving **practical problems**  
 - 🤝 Looking for **Internships / Entry-Level Java Developer roles** (Immediate Joiner)  
-- 📚 Academic Projects: *HelpHub – Local Freelance Task System*, *Employee Management System*
+- 🧩 Personal Projects: *Employee Management System*, *Bank System*
 
 ---
 
@@ -70,6 +69,13 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
   </a>
 </p>
+
+---
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+- 🧮 **Employee Management System** – A Java Spring Boot and MySQL-based web app for managing employee records, CRUD operations, and department-level access.  
+- 🏦 **Bank System** – Core Java and OOP-based console project for account creation, deposits, withdrawals, and balance management.
 
 ---
 
