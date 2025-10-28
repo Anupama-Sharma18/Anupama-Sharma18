@@ -15,7 +15,7 @@
 <h3 align="center">A passionate Java developer from India, currently pursuing MCA</h3>
 
 - 🔭 I’m currently working on **Spring Boot + MySQL** full stack projects  
-- 🌱 Learning **React.js**, **Docker**, and exploring **Cloud & DevOps (AWS)**  
+- 🌱 Learning **React.js**, **Tailwind css**, and exploring **Cloud & DevOps (AWS)**  
 - 👯 I’m open to collaborate on **real-world or Java-based projects**  
 - 💡 Passionate about **writing clean, efficient code** and solving **practical problems**  
 - 🤝 Looking for **Internships / Entry-Level Java Developer roles** (Immediate Joiner)  
@@ -56,14 +56,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
