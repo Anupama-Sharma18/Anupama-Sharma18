@@ -56,9 +56,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
+  </a> -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
@@ -74,8 +74,8 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-- 🧮 **Employee Management System** – A Java Spring Boot and MySQL-based web app for managing employee records, CRUD operations, and department-level access.  
-- 🏦 **Bank System** – Core Java and OOP-based console project for account creation, deposits, withdrawals, and balance management.
+- 🧮 **WorkZen– Employee Management Web App** – A Java Spring Boot and MySQL-based web app for managing employee records, CRUD operations, and department-level access.  
+- 🏦 **CampusPrep– Interview Experience Web App** – Developed a Spring Boot REST API platform with JWT authentication to manage and share campus interview experiences, implementing layered architecture and MySQL persistence.
 
 ---
 
