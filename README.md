@@ -15,11 +15,11 @@
 <h3 align="center">A passionate Java developer from India, currently pursuing MCA</h3>
 
 - 🔭 I’m currently working on **Spring Boot + MySQL** full stack projects  
-- 🌱 Learning **React.js**, **Docker**, and exploring **Cloud & DevOps (AWS)**  
+- 🌱 Learning **Python**, **Docker**, and exploring **Cloud & DevOps (AWS)**  
 - 👯 I’m open to collaborate on **real-world or Java-based projects**  
 - 💡 Passionate about **writing clean, efficient code** and solving **practical problems**  
 - 🤝 Looking for **Internships / Entry-Level Java Developer roles** (Immediate Joiner)  
-- 🧩 Personal Projects: *Employee Management System*, *Bank System*
+- 🧩 Personal Projects: *WorkZen– Employee Management Web App*, *CampusPrep– Interview Experience Web App*
 
 ---
 
